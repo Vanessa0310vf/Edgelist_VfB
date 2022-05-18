@@ -1,1 +1,1 @@
-Das ist die Edgelist für den VfB. 
+Das ist die Edgelist und die Nodelist für die VfB Aufgabe im Testat.
