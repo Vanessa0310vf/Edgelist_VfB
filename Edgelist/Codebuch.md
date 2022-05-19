@@ -1,7 +1,5 @@
 CODEBUCH,für VfB Netzwerk
-,
-,
-Wert,Kommentar
+
 edgelist,
 from,Von welchem Verein kommen die Spieler
 to ,Die ID des Spielers. Hierfür wurde jeweils die Rückennummer verwendet
